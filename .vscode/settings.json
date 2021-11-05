@@ -1,6 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "CookieCalc",
-        "RaceTime"
+        "week03/RaceTime"
     ]
 }
