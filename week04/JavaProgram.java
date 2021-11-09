@@ -1,20 +1,18 @@
-* Java Program Example - Java while Loop
- * The target of a loop can be empty */
+/* Java Program Example - Java while Loop
+ * Demonstrate the while Loop */
 
 public class JavaProgram
-{   
-    public static void main(String args[])
-    {
-        
-        int i, j;
-        
-        i = 100;
-        j = 200;
-        
-        // find midpoint between i and j
-        while(++i < --j);    // there is no body in this loop
-        
-        System.out.println("Midpoint is " + i);
-        
-    }
+{   
+    public static void main(String args[])
+    {
+        
+        int n = 10;
+        
+        while(n>0)
+        {
+            System.out.println("tick " + n);
+            n--;
+        }
+        
+    }
 }
