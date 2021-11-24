@@ -1,5 +1,3 @@
-import java.security.spec.ECPoint;
-
 public class Methods {
 
     public static void main(String[] args) {
