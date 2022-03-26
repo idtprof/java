@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "week05",
         "week04",
+        "week01/HelloWorld",
         "sample",
-        "week05"
+        "week02/CookieCalc"
     ]
 }
